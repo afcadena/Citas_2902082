@@ -1,6 +1,6 @@
 package org.citas2902082.java.entities.enums;
 
-public enum EstadoCita {
+public enum Estado {
     AGENDAR,
     CANCELADA,
     REAGENDADA
